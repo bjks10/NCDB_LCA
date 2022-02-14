@@ -1,7 +1,7 @@
 # NCDB_LCA
 
 This repository provides supporting code needed to reproduce analysis from "Cluster identification of early-stage pancreas cancer patients at greatest risk for disparities of care"
-Authors: Ugwuji N. Maduekwe, MD MMSc MPH1; Briana J. K. Stephenson, MPH, PhD; Jen Jen Yeh, MD PhD; Melissa Troester, PhD; Hanna K Sanoff, MD.
+Authors: Ugwuji N. Maduekwe, MD MMSc MPH; Briana J. K. Stephenson, MPH, PhD; Jen Jen Yeh, MD PhD; Melissa Troester, PhD; Hanna K Sanoff, MD.
 
 ## R Codes to reproduce analysis
 1. NCDB_LCA.R - using early PUF data received from NCDB, latent class analysis model is performed and summarized
